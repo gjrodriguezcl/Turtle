@@ -1,0 +1,30 @@
+# Archivos de Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+
+# Archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de log
+log.txt
+*.log
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de marca del .bat
+.ejecutado_desde_bat
+
+# Archivos del sistema
+.DS_Store

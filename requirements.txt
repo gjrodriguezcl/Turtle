@@ -1,0 +1,8 @@
+# Requerimientos para Dibuja con Código
+# Turtle y Tkinter vienen con Python estándar
+
+# Pillow es necesario solo si quieres procesar imágenes
+# pip install Pillow
+
+# PyInstaller es necesario solo para compilar el .exe
+# pip install pyinstaller
